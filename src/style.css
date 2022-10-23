@@ -1,0 +1,31 @@
+.nav {
+  height: 50px;
+  width: 100%;
+  position: relative;
+  background-color: #363535;
+}
+.company-logo {
+  width: 25%;
+  margin-left: 20px;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav-title {
+  font-size: 20px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  color: rgba(255, 255, 255, 0.575);
+}
+
+.create-button {
+  margin-left: auto;
+  margin-right: 50px;
+  text-decoration: none;
+  padding: 10px 10px 10px 10px;
+  color: rgba(212, 200, 200, 0.589);
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
