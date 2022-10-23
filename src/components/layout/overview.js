@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 const Blog = (props) => (
   <tr>
     <td>
+      <p>test reactivity</p>
       <h3>{props.blog.tittle}</h3>
       <p>{props.blog.description}</p>
       <div>
